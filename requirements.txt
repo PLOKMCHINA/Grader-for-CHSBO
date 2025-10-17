@@ -1,0 +1,2 @@
+tkinter  # 通常Python自带
+PyInstaller
